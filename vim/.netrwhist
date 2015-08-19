@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='/home/george/webpages/nepadocs/nepadocs3/nepadocs'
+let g:netrw_dirhist_2='/home/george/webpages/nepadocs/nepadocs3'
+let g:netrw_dirhist_3='/home/george/webpages/nepadocs/nepadocs3/includes'
+let g:netrw_dirhist_4='/home/george/webpages/docsked/sicca/includes'
+let g:netrw_dirhist_5='/home/george/webpages/docsked/classes'
+let g:netrw_dirhist_6='/usr/share/php5'
+let g:netrw_dirhist_7='/home/george/webpages/docsked/sicca/templates'
+let g:netrw_dirhist_8='/home/george/webpages/docsked/includes'
